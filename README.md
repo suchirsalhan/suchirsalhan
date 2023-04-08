@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋
 
 I'm Suchir, a Finalist at the University of Cambridge specialising in Natural Language Processing. 
 

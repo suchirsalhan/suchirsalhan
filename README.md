@@ -1,15 +1,14 @@
 ### Hi, I'm Suchir 👋🏼
 
-I'm a Machine Learning PhD Candidate at the University of Cambridge, working on Natural Language Processing. 
+I'm a Machine Learning PhD Candidate at the University of Cambridge, working on Natural Language Processing, working on **small language models**.
 
 - 🎓 I completed my BA and MEng at the University of Cambridge (Gonville & Caius College). 
-- 💼 I've worked on offline Imitation Learning, XAI, multimodal language models, argumentation mining, and applying Linguistic Theory to improve the cross-linguistic capabilities of Transformer-based Language Models
-- 💬 I have a highly interdisciplinary background, with interests in cognitive science (e.g., language acquisition and comparative cognition), Linguistics (language typology) and journalism. 
+- 💼 I've worked on offline Imitation Learning, XAI, and am looking to work on Graph Neural Networks. 
+- 💬 Multilingual NLP, Cognitive Science, Multimodal Language Models and Automated Fact-checking are also topics of interest. 
 
 📫 Feel free to [contact me](mailto:sas245@cam.ac.uk)! 
 
 ---
-[![Website](https://img.shields.io/badge/Blog-F0F0F0?style=for-the-badge&logo=notion&logoColor=black)](https://www.suchirsalhan.com/)
 [![X](https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/suchirsalhan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssalhan/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suchirsalhan)

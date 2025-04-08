@@ -1,6 +1,8 @@
 ### Hi, I'm Suchir 👋🏼
 
-I'm a Machine Learning PhD Candidate at the University of Cambridge, working on Natural Language Processing, working on **small language models**.
+I'm a Computer Science PhD Candidate at the University of Cambridge, working on **small language models**.
+
+Check out our group's work on [Pico LM](https://picolm.io)!
 
 - 🎓 I completed my BA and MEng at the University of Cambridge (Gonville & Caius College). 
 - 💼 I've worked on offline Imitation Learning, XAI, and am looking to work on Graph Neural Networks. 

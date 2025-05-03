@@ -1,10 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=open+sans&size=40&pause=1000&color=A3C1AD&background=D6E80AC1&center=true&vCenter=true&random=true&width=500&height=100&lines=+Hi%2C+I'm+Suchir!+)](https://git.io/typing-svg) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tagesschrift&weight=600&size=25&duration=4000&pause=700&color=C10200&multiline=true&repeat=false&width=614&height=100&lines=I'm+a+Computer+Science+PhD+Candidate+at+;the+University+of+Cambridge%2C+working;on+Small+Language+Models.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tagesschrift&weight=600&size=25&duration=4000&pause=700&color=C10200&multiline=true&width=614&height=100&lines=I'm+a+Computer+Science+PhD+Candidate+at+;the+University+of+Cambridge%2C+working;on+Small+Language+Models.)](https://git.io/typing-svg)
 
-Check out our group's work on [Pico LM](https://picolm.io)! 
+## PicoLM
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F79127&repeat=false&width=435&lines=PicoLM+%E2%80%93+Unpacking+Learning+Dynamics;Libraries%3A+%7C+Pico+Train+%7C+Pico+Analyze+%7C;Find+out+more+at+www.picolm.io+)](https://git.io/typing-svg)
+
+Fork and Star the  [Pico LM](https://picolm.io) Train and Analyze repos! 
 <img src="https://c.tenor.com/StmGV2_YmjEAAAAi/winking-face-joypixels.gif" width="25" /> 
 
+
+## About
 - 🎓 I completed my BA and MEng at the University of Cambridge (Gonville & Caius College). 
 - 💼 I've worked on offline Imitation Learning, XAI, and Graph Neural Networks. 
 - 💬 Multilingual NLP, Cognitive Science and Multimodal Language Models are also topics of interest. 

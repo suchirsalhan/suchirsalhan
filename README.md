@@ -4,9 +4,9 @@
 
 ## PicoLM
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F79127&repeat=false&width=435&lines=PicoLM+%E2%80%93+Unpacking+Learning+Dynamics;Libraries%3A+%7C+Pico+Train+%7C+Pico+Analyze+%7C;Find+out+more+at+www.picolm.io+)](https://suchirsalhan.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F79127&repeat=false&width=435&lines=PicoLM+%E2%80%93+Unpacking+Learning+Dynamics;Libraries%3A+%7C+Pico+Train+%7C+Pico+Analyze+%7C;Find+out+more+at+www.picolm.io+)](https://picolm.io)
 
-Fork and Star the  [Pico LM](https://picolm.io) Train and Analyze repos! 
+Fork and Star the  [Pico LM](https://github.com/pico-lm) Train and Analyze repos! 
 <img src="https://c.tenor.com/StmGV2_YmjEAAAAi/winking-face-joypixels.gif" width="25" /> 
 
 

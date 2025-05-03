@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tagesschrift&weight=600&size=25&duration=4000&pause=700&color=C10200&multiline=true&repeat=false&width=614&height=100&lines=I'm+a+Computer+Science+PhD+Candidate+at+;the+University+of+Cambridge%2C+working;on+Small+Language+Models.)](https://git.io/typing-svg)
 
-
 Check out our group's work on [Pico LM](https://picolm.io)! 
 <img src="https://c.tenor.com/StmGV2_YmjEAAAAi/winking-face-joypixels.gif" width="25" /> 
 
